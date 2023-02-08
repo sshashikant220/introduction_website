@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--CSS-->
+    <link rel="stylesheet" href="./styles/style.css">
+       <!--font awosome-->
+       <script src="https://kit.fontawesome.com/996981d688.js" crossorigin="anonymous"></script>
+       <!--Google Font-->
+       <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap" rel="stylesheet">
+
+
+
+
+    <title>Document</title>
+</head>
+<body>
+    <!--Header-->
+    <header>
+        <nav>
+            <!--Logo-->
+          <img src="./Asset/images.png" alt="logo">
+            <!--Navigation-->
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About-Us</a></li>
+                <li><a href="#">Contact-Us</a></li>
+            </ul>
+            <!--Search bar-->
+            <div class="Search-bar">
+                <input type="search" placeholder="Search">
+                <button>Search</button>
+            </div>
+        </nav>
+    </header>
+    <!--Main-->
+    <section class="Main-section">
+        <!--leftside section-->
+        <div class="Main-left-side">
+            <h1>Hello , i am a <span>Webdeveloper</span> 
+
+            </h1>
+            <p>i am aspiring <span> Fullsttack Javascript Developer</span>
+                 who is currently working as  <span>Freelancer</span>  for
+                  <span>Natinal and Internatinal client.</span> 
+
+            </p>
+
+        </div>
+        <!--Rightside Section-->
+        <div class=" Main-right-side">
+
+           <div class="logo"> <img src="./Asset/ownername.png" alt="owner logo" >
+        
+               </div>
+            <!--chatbutton-->
+
+
+            <div class="chatbutton">
+                
+                <button>Chat with Us</button>
+            
+            </div>
+        
+
+        </div>
+    </section>
+    <footer>
+
+        
+          
+          
+            <p>Copyright <i class="fa-sharp fa-solid fa-copyright"></i>-2023-2034 . All Right Reserved</p>
+          
+
+           <ul>
+            <li><a href="#"><i class="fa-brands fa-github"></i></a></li>
+            <li><a href="https://www.instagram.com/ishashikantsingh/"><i class="fa-brands fa-instagram"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/sshashikantsingh/"><i class="fa-brands fa-linkedin"></i></a></li>
+            
+           </ul>
+
+
+
+    </footer>
+
+
+
+    
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
